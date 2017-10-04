@@ -5,10 +5,10 @@ depends.sounds = {}
 depends.music = {}
 
 depends.loadPaths = function()
-depends.icons = "res/icons"
-depends. = "res/sprites"
-strSou = "res/sounds"
-strMus = "res/music"
+depends.icons = "res/icons/"
+depends.sprites = "res/sprites/"
+depends.sounds = "res/sounds/"
+depends.music = "res/music/"
 end
 
 return depends
